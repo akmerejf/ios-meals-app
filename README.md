@@ -15,8 +15,8 @@ Após gerar o arquivo `.framework` no diretório especificado no readme do módu
 
 - Build no projeto **⌘+b**
 
-## [Adicionando uma flutter view](https://flutter.dev/docs/development/add-to-app/ios/add-flutter-screen)
-## [Adicionando canais e métodos de comunicação entre o módulo flutter e o app nativo](https://flutter.dev/docs/development/platform-integration/platform-channels)
+[Adicionando uma flutter view](https://flutter.dev/docs/development/add-to-app/ios/add-flutter-screen)
+[Adicionando canais e métodos de comunicação entre o módulo flutter e o app nativo](https://flutter.dev/docs/development/platform-integration/platform-channels)
 
 ## Visão arquitetural
 
